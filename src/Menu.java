@@ -12,7 +12,7 @@ public class Menu {
 	 */
 	
 	public static void pintaMenu() {
-		System.out.println("--------Menu-------");
+		System.out.println("--------Menu 2-------");
 	}
 	
 }
